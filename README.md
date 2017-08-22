@@ -1,2 +1,2 @@
 # Quant-python
-# These are programs I’ve written while learning studying. The implementation is in Jupyter notebooks.
+# These are programs I’ve written while doing research. The implementation is in Jupyter notebooks.
