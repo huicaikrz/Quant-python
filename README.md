@@ -1,7 +1,7 @@
 # Quant-python
 
 ## introduction
-This project is a collection of python programs I wrote during bootcamp.
+This project is a collection of python programs I wrote during summer 2017 bootcamp in Univeristy of Michigan.
 
 ## python basics
 We learned about python datatypes, if-elif-else conditions, for and while loops, lists and tuples, and list comprehensions.
